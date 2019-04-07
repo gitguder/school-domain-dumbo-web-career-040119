@@ -19,7 +19,6 @@ class School
   
   def grade(student_grade)
     roster[student_grade]
-    #binding.pry
   end
   
   def sort
